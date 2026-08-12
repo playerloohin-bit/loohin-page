@@ -253,6 +253,7 @@ nav .inner {
 .pcard-thumb.navy { background: linear-gradient(135deg, #312E81 0%, #4338CA 100%); }
 .pcard-thumb.teal { background: linear-gradient(135deg, #134E4A 0%, #115E59 100%); }
 .pcard-thumb.white { background: linear-gradient(135deg, #F3F4F6 0%, #E5E7EB 100%); }
+.pcard-thumb.green { background: linear-gradient(135deg, #03C75A 0%, #02A94D 100%); }
 .pcard-thumb img { width: 100%; height: 100%; object-fit: cover; }
 .pcard-thumb-tag {
   position: absolute; top: 10px; left: 10px;
